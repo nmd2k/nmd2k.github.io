@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/badminton-blog/";
           
         },
+      },{id: "post-singapore-and-iclr-2025",
+        
+          title: "Singapore and ICLR 2025",
+        
+        description: "this is what included image galleries could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/iclr-2025-trip/";
+          
+        },
       },{id: "post-mixture-of-expert-explanation",
         
           title: "Mixture of expert explanation",
