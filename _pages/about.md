@@ -25,6 +25,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+=========================================================
+
+⚠️⚠️⚠️ HI FRIENDS, I HAVE MOVED TO NEW DOMAIN ⚠️⚠️⚠️   
+👉👉👉 [https://nmd2k.io.vn/](https://nmd2k.io.vn/) 👈👈👈
+
+=========================================================
+
+
 :wave: I'm Dũng (Dzung). I graduated with honors degree in Computer Science from [University of Engineering and Technology, Vietnam National University](https://uet.vnu.edu.vn/en) (UET).
 
 Since 2022, I’ve been working as a researcher and engineer at [FPT Software AI Center's AI Residency](https://www.fpt-aicenter.com/ai-residency/) program, under the mentorship of [Dr. Nghi Bui](https://bdqnghi.github.io/) from Singapore Management University.
